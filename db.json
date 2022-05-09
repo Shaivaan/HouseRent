@@ -1,0 +1,933 @@
+{
+  "user": [
+    {
+      "name": "sherruss",
+      "password": "12345",
+      "email": "ghotaklala@gmail.com",
+      "mobile": "8630975894",
+      "id": 1
+    },
+    {
+      "name": "sherruss",
+      "password": "123445",
+      "email": "shivanshu_fw13_072@masai.school",
+      "mobile": "8630975894",
+      "id": 2
+    },
+    {
+      "name": "sherruss",
+      "password": "21345",
+      "email": "icare@gmail.com",
+      "mobile": "8630975894",
+      "id": 3
+    }
+  ],
+  "house": [
+    {
+      "id": 1,
+      "city": "Xinchong",
+      "pincode": "79",
+      "price": 7037
+    },
+    {
+      "id": 2,
+      "city": "Maple Plain",
+      "pincode": "352",
+      "price": 6578
+    },
+    {
+      "id": 3,
+      "city": "T’et’ri Tsqaro",
+      "pincode": "509",
+      "price": 6388
+    },
+    {
+      "id": 4,
+      "city": "Huanglin",
+      "pincode": "44",
+      "price": 8708
+    },
+    {
+      "id": 5,
+      "city": "Bayan Huxu",
+      "pincode": "393",
+      "price": 8100
+    },
+    {
+      "id": 6,
+      "city": "Gondar",
+      "pincode": "44",
+      "price": 6954
+    },
+    {
+      "id": 7,
+      "city": "Nunchía",
+      "pincode": "9",
+      "price": 9538
+    },
+    {
+      "id": 8,
+      "city": "Mar’’ina Horka",
+      "pincode": "13",
+      "price": 7799
+    },
+    {
+      "id": 9,
+      "city": "Đoan Hùng",
+      "pincode": "0",
+      "price": 9058
+    },
+    {
+      "id": 10,
+      "city": "Morelos",
+      "pincode": "7",
+      "price": 7743
+    },
+    {
+      "id": 11,
+      "city": "Maubin",
+      "pincode": "563",
+      "price": 9546
+    },
+    {
+      "id": 12,
+      "city": "Gorey",
+      "pincode": "3",
+      "price": 9841
+    },
+    {
+      "id": 13,
+      "city": "Tianchi",
+      "pincode": "2495",
+      "price": 6332
+    },
+    {
+      "id": 14,
+      "city": "Springfield",
+      "pincode": "1",
+      "price": 7862
+    },
+    {
+      "id": 15,
+      "city": "Engel’s",
+      "pincode": "98029",
+      "price": 7899
+    },
+    {
+      "id": 16,
+      "city": "Xilin",
+      "pincode": "69606",
+      "price": 9905
+    },
+    {
+      "id": 17,
+      "city": "Xinzhaiping",
+      "pincode": "027",
+      "price": 6803
+    },
+    {
+      "id": 18,
+      "city": "Urungpigang",
+      "pincode": "78",
+      "price": 9607
+    },
+    {
+      "id": 19,
+      "city": "Yataity del Norte",
+      "pincode": "24",
+      "price": 9861
+    },
+    {
+      "id": 20,
+      "city": "Stratford",
+      "pincode": "9582",
+      "price": 8608
+    },
+    {
+      "id": 21,
+      "city": "Nan’ao",
+      "pincode": "61739",
+      "price": 8915
+    },
+    {
+      "id": 22,
+      "city": "Marseille",
+      "pincode": "931",
+      "price": 6880
+    },
+    {
+      "id": 23,
+      "city": "Kłomnice",
+      "pincode": "96",
+      "price": 7052
+    },
+    {
+      "id": 24,
+      "city": "Vanino",
+      "pincode": "2",
+      "price": 9795
+    },
+    {
+      "id": 25,
+      "city": "Songjianghe",
+      "pincode": "4150",
+      "price": 7032
+    },
+    {
+      "id": 26,
+      "city": "Raciążek",
+      "pincode": "1",
+      "price": 8303
+    },
+    {
+      "id": 27,
+      "city": "Des Moines",
+      "pincode": "97",
+      "price": 6015
+    },
+    {
+      "id": 28,
+      "city": "Yangwei",
+      "pincode": "426",
+      "price": 9921
+    },
+    {
+      "id": 29,
+      "city": "Dongxin",
+      "pincode": "9",
+      "price": 6819
+    },
+    {
+      "id": 30,
+      "city": "Edinburgh",
+      "pincode": "5762",
+      "price": 6951
+    },
+    {
+      "id": 31,
+      "city": "Miras",
+      "pincode": "1071",
+      "price": 8120
+    },
+    {
+      "id": 32,
+      "city": "Bahay Pare",
+      "pincode": "1",
+      "price": 6368
+    },
+    {
+      "id": 33,
+      "city": "Malya",
+      "pincode": "9",
+      "price": 7528
+    },
+    {
+      "id": 34,
+      "city": "Yamazakichō-nakabirose",
+      "pincode": "2751",
+      "price": 7853
+    },
+    {
+      "id": 35,
+      "city": "Ekimchan",
+      "pincode": "5",
+      "price": 8828
+    },
+    {
+      "id": 36,
+      "city": "Ketapang",
+      "pincode": "6",
+      "price": 9709
+    },
+    {
+      "id": 37,
+      "city": "Blois",
+      "pincode": "3",
+      "price": 9462
+    },
+    {
+      "id": 38,
+      "city": "Pukë",
+      "pincode": "1226",
+      "price": 6787
+    },
+    {
+      "id": 39,
+      "city": "Kimch’aek-si",
+      "pincode": "2262",
+      "price": 6499
+    },
+    {
+      "id": 40,
+      "city": "Gwio Kura",
+      "pincode": "86",
+      "price": 7172
+    },
+    {
+      "id": 41,
+      "city": "Hancheng",
+      "pincode": "78534",
+      "price": 8632
+    },
+    {
+      "id": 42,
+      "city": "Cà Mau",
+      "pincode": "80966",
+      "price": 9375
+    },
+    {
+      "id": 43,
+      "city": "Xiaolongmen",
+      "pincode": "8235",
+      "price": 7935
+    },
+    {
+      "id": 44,
+      "city": "Kuanheum",
+      "pincode": "8509",
+      "price": 9156
+    },
+    {
+      "id": 45,
+      "city": "Pacov",
+      "pincode": "47",
+      "price": 8234
+    },
+    {
+      "id": 46,
+      "city": "Busdi",
+      "pincode": "825",
+      "price": 9810
+    },
+    {
+      "id": 47,
+      "city": "Helsingborg",
+      "pincode": "751",
+      "price": 8117
+    },
+    {
+      "id": 48,
+      "city": "Alfenas",
+      "pincode": "7",
+      "price": 6220
+    },
+    {
+      "id": 49,
+      "city": "Tougan",
+      "pincode": "5725",
+      "price": 9552
+    },
+    {
+      "id": 50,
+      "city": "Jati",
+      "pincode": "99724",
+      "price": 7441
+    },
+    {
+      "id": 51,
+      "city": "Donggong",
+      "pincode": "072",
+      "price": 8585
+    },
+    {
+      "id": 52,
+      "city": "Kamionka Wielka",
+      "pincode": "36",
+      "price": 8435
+    },
+    {
+      "id": 53,
+      "city": "Sekirnik",
+      "pincode": "65199",
+      "price": 9488
+    },
+    {
+      "id": 54,
+      "city": "Changpu",
+      "pincode": "8",
+      "price": 8584
+    },
+    {
+      "id": 55,
+      "city": "Afonsoeiro",
+      "pincode": "1",
+      "price": 6741
+    },
+    {
+      "id": 56,
+      "city": "Alto de la Estancia",
+      "pincode": "219",
+      "price": 9647
+    },
+    {
+      "id": 57,
+      "city": "Al Hufūf",
+      "pincode": "67139",
+      "price": 9830
+    },
+    {
+      "id": 58,
+      "city": "Talipan",
+      "pincode": "184",
+      "price": 8594
+    },
+    {
+      "id": 59,
+      "city": "Tshaneni",
+      "pincode": "5",
+      "price": 9528
+    },
+    {
+      "id": 60,
+      "city": "Suwaru",
+      "pincode": "75",
+      "price": 6162
+    },
+    {
+      "id": 61,
+      "city": "Cafe",
+      "pincode": "7249",
+      "price": 9552
+    },
+    {
+      "id": 62,
+      "city": "Wufeng",
+      "pincode": "484",
+      "price": 8044
+    },
+    {
+      "id": 63,
+      "city": "Luti",
+      "pincode": "14",
+      "price": 7271
+    },
+    {
+      "id": 64,
+      "city": "Palmeira",
+      "pincode": "9",
+      "price": 6987
+    },
+    {
+      "id": 65,
+      "city": "Saurama",
+      "pincode": "290",
+      "price": 9650
+    },
+    {
+      "id": 66,
+      "city": "Kosong",
+      "pincode": "2735",
+      "price": 8271
+    },
+    {
+      "id": 67,
+      "city": "Walagar",
+      "pincode": "10",
+      "price": 6807
+    },
+    {
+      "id": 68,
+      "city": "Lajinha",
+      "pincode": "90156",
+      "price": 8547
+    },
+    {
+      "id": 69,
+      "city": "Mirnyy",
+      "pincode": "5",
+      "price": 8636
+    },
+    {
+      "id": 70,
+      "city": "Frederiksberg",
+      "pincode": "8436",
+      "price": 9825
+    },
+    {
+      "id": 71,
+      "city": "Yunlong",
+      "pincode": "3",
+      "price": 7827
+    },
+    {
+      "id": 72,
+      "city": "Rongmei",
+      "pincode": "71247",
+      "price": 6761
+    },
+    {
+      "id": 73,
+      "city": "Kampong Thom",
+      "pincode": "5454",
+      "price": 7206
+    },
+    {
+      "id": 74,
+      "city": "Palmas",
+      "pincode": "60",
+      "price": 7790
+    },
+    {
+      "id": 75,
+      "city": "Nowa Ruda",
+      "pincode": "64",
+      "price": 8783
+    },
+    {
+      "id": 76,
+      "city": "Ash Shaykh ‘Uthmān",
+      "pincode": "12",
+      "price": 8781
+    },
+    {
+      "id": 77,
+      "city": "Pospelikha",
+      "pincode": "39",
+      "price": 9663
+    },
+    {
+      "id": 78,
+      "city": "Soledad",
+      "pincode": "7070",
+      "price": 9476
+    },
+    {
+      "id": 79,
+      "city": "Middleton",
+      "pincode": "380",
+      "price": 6267
+    },
+    {
+      "id": 80,
+      "city": "Vlachovice",
+      "pincode": "5",
+      "price": 8465
+    },
+    {
+      "id": 81,
+      "city": "Offenbach",
+      "pincode": "2188",
+      "price": 6570
+    },
+    {
+      "id": 82,
+      "city": "Guchang",
+      "pincode": "67",
+      "price": 9784
+    },
+    {
+      "id": 83,
+      "city": "Nekhayevskiy",
+      "pincode": "104",
+      "price": 6885
+    },
+    {
+      "id": 84,
+      "city": "Kurbnesh",
+      "pincode": "38072",
+      "price": 9451
+    },
+    {
+      "id": 85,
+      "city": "Licheng",
+      "pincode": "251",
+      "price": 7397
+    },
+    {
+      "id": 86,
+      "city": "Orneta",
+      "pincode": "64",
+      "price": 6126
+    },
+    {
+      "id": 87,
+      "city": "Terentang",
+      "pincode": "5",
+      "price": 7201
+    },
+    {
+      "id": 88,
+      "city": "Calape",
+      "pincode": "2840",
+      "price": 9440
+    },
+    {
+      "id": 89,
+      "city": "Changgou",
+      "pincode": "82",
+      "price": 7300
+    },
+    {
+      "id": 90,
+      "city": "São Martinho do Campo",
+      "pincode": "0519",
+      "price": 8184
+    },
+    {
+      "id": 91,
+      "city": "Opuzen",
+      "pincode": "012",
+      "price": 8356
+    },
+    {
+      "id": 92,
+      "city": "Bélel",
+      "pincode": "98",
+      "price": 9592
+    },
+    {
+      "id": 93,
+      "city": "San Juan",
+      "pincode": "9343",
+      "price": 6418
+    },
+    {
+      "id": 94,
+      "city": "Shiniu",
+      "pincode": "98847",
+      "price": 7298
+    },
+    {
+      "id": 95,
+      "city": "Psachná",
+      "pincode": "9",
+      "price": 7439
+    },
+    {
+      "id": 96,
+      "city": "Xin’an",
+      "pincode": "83",
+      "price": 7476
+    },
+    {
+      "id": 97,
+      "city": "Lendangara Satu",
+      "pincode": "155",
+      "price": 9716
+    },
+    {
+      "id": 98,
+      "city": "Nangtang",
+      "pincode": "2318",
+      "price": 7115
+    },
+    {
+      "id": 99,
+      "city": "Jingkou",
+      "pincode": "77",
+      "price": 8664
+    },
+    {
+      "id": 100,
+      "city": "Áno Kopanákion",
+      "pincode": "87848",
+      "price": 9076
+    },
+    {
+      "id": 101,
+      "city": "Tuapse",
+      "pincode": "0",
+      "price": 7031
+    },
+    {
+      "id": 102,
+      "city": "Estela",
+      "pincode": "5",
+      "price": 7971
+    },
+    {
+      "id": 103,
+      "city": "Cerro de Pasco",
+      "pincode": "98",
+      "price": 9113
+    },
+    {
+      "id": 104,
+      "city": "Kvasy",
+      "pincode": "1",
+      "price": 6566
+    },
+    {
+      "id": 105,
+      "city": "Yangji",
+      "pincode": "130",
+      "price": 8141
+    },
+    {
+      "id": 106,
+      "city": "Cherven Bryag",
+      "pincode": "11843",
+      "price": 8145
+    },
+    {
+      "id": 107,
+      "city": "Porta",
+      "pincode": "5",
+      "price": 6941
+    },
+    {
+      "id": 108,
+      "city": "Örnsköldsvik",
+      "pincode": "8815",
+      "price": 7457
+    },
+    {
+      "id": 109,
+      "city": "Hengduo",
+      "pincode": "94329",
+      "price": 8306
+    },
+    {
+      "id": 110,
+      "city": "Jardoeira",
+      "pincode": "47",
+      "price": 7497
+    },
+    {
+      "id": 111,
+      "city": "Apostolove",
+      "pincode": "433",
+      "price": 8438
+    },
+    {
+      "id": 112,
+      "city": "San Nicolas",
+      "pincode": "25727",
+      "price": 8088
+    },
+    {
+      "id": 113,
+      "city": "Houston",
+      "pincode": "48",
+      "price": 9205
+    },
+    {
+      "id": 114,
+      "city": "Balbagay",
+      "pincode": "653",
+      "price": 9117
+    },
+    {
+      "id": 115,
+      "city": "Kisarawe",
+      "pincode": "54113",
+      "price": 8226
+    },
+    {
+      "id": 116,
+      "city": "Cruz Alta",
+      "pincode": "549",
+      "price": 8683
+    },
+    {
+      "id": 117,
+      "city": "Fukuechō",
+      "pincode": "8",
+      "price": 9767
+    },
+    {
+      "id": 118,
+      "city": "Karang Kulon",
+      "pincode": "80648",
+      "price": 9732
+    },
+    {
+      "id": 119,
+      "city": "Gudauta",
+      "pincode": "04471",
+      "price": 7051
+    },
+    {
+      "id": 120,
+      "city": "Briceni",
+      "pincode": "3",
+      "price": 8468
+    },
+    {
+      "id": 121,
+      "city": "Jomsom",
+      "pincode": "2810",
+      "price": 6393
+    },
+    {
+      "id": 122,
+      "city": "Sidomekar",
+      "pincode": "3",
+      "price": 9217
+    },
+    {
+      "id": 123,
+      "city": "Salgar",
+      "pincode": "747",
+      "price": 8453
+    },
+    {
+      "id": 124,
+      "city": "Uppsala",
+      "pincode": "54722",
+      "price": 9970
+    },
+    {
+      "id": 125,
+      "city": "Guanyang",
+      "pincode": "2",
+      "price": 7261
+    },
+    {
+      "id": 126,
+      "city": "Lluchubamba",
+      "pincode": "74713",
+      "price": 6165
+    },
+    {
+      "id": 127,
+      "city": "Stutterheim",
+      "pincode": "1",
+      "price": 8356
+    },
+    {
+      "id": 128,
+      "city": "Fatumnasi",
+      "pincode": "9281",
+      "price": 8163
+    },
+    {
+      "id": 129,
+      "city": "Boawae",
+      "pincode": "1",
+      "price": 6966
+    },
+    {
+      "id": 130,
+      "city": "Balabagan",
+      "pincode": "66",
+      "price": 9327
+    },
+    {
+      "id": 131,
+      "city": "Pamplona/Iruña",
+      "pincode": "30069",
+      "price": 6699
+    },
+    {
+      "id": 132,
+      "city": "Thika",
+      "pincode": "14",
+      "price": 8494
+    },
+    {
+      "id": 133,
+      "city": "Odrinhas",
+      "pincode": "308",
+      "price": 9639
+    },
+    {
+      "id": 134,
+      "city": "Santo Niño",
+      "pincode": "4",
+      "price": 6570
+    },
+    {
+      "id": 135,
+      "city": "Independencia",
+      "pincode": "81382",
+      "price": 8779
+    },
+    {
+      "id": 136,
+      "city": "Aguas Corrientes",
+      "pincode": "4",
+      "price": 9333
+    },
+    {
+      "id": 137,
+      "city": "Bidyā",
+      "pincode": "689",
+      "price": 8342
+    },
+    {
+      "id": 138,
+      "city": "Terenozek",
+      "pincode": "90",
+      "price": 6456
+    },
+    {
+      "id": 139,
+      "city": "Fujishiro",
+      "pincode": "2528",
+      "price": 8371
+    },
+    {
+      "id": 140,
+      "city": "Shimen",
+      "pincode": "9559",
+      "price": 8329
+    },
+    {
+      "id": 141,
+      "city": "Boshan",
+      "pincode": "66075",
+      "price": 8492
+    },
+    {
+      "id": 142,
+      "city": "Hermosa",
+      "pincode": "55923",
+      "price": 8538
+    },
+    {
+      "id": 143,
+      "city": "Nubl",
+      "pincode": "2",
+      "price": 8245
+    },
+    {
+      "id": 144,
+      "city": "Litibakul",
+      "pincode": "183",
+      "price": 9245
+    },
+    {
+      "id": 145,
+      "city": "Kaiyuan",
+      "pincode": "682",
+      "price": 8648
+    },
+    {
+      "id": 146,
+      "city": "Chernukha",
+      "pincode": "882",
+      "price": 7119
+    },
+    {
+      "id": 147,
+      "city": "Partille",
+      "pincode": "263",
+      "price": 6923
+    },
+    {
+      "id": 148,
+      "city": "Karlobag",
+      "pincode": "0883",
+      "price": 7545
+    },
+    {
+      "id": 149,
+      "city": "Toshbuloq",
+      "pincode": "94856",
+      "price": 8027
+    },
+    {
+      "id": 150,
+      "city": "Baojia",
+      "pincode": "72",
+      "price": 6137
+    },
+    {
+      "city": "Gowhati",
+      "pincode": "282003",
+      "rent": "1000",
+      "id": 151
+    }
+  ]
+}
